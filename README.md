@@ -20,6 +20,7 @@ Buon lavoro!
 SPEZZARE IL PROBLEMA IN SOTTOPROBLEMI:
 
 -definire la variabile del prezzo per chilometro
+-definire la variabile km
 -definire la variabile del biglietto del treno 
 -definire la variabile sconto 20
 -definire la variabile sconto 40 
