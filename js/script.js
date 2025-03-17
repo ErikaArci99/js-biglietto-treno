@@ -9,6 +9,7 @@ let age = prompt('inserisci la tua età');
 
 
 // condizioni
+
 if(age < 18){
     finalPrice = (price - firstDiscout);
 }
@@ -23,4 +24,6 @@ else{
 
 
 // prezzo da pagare
+
+finalPrice = finalPrice.toFixed(2)
 console.log(finalPrice);
