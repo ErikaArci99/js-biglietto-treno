@@ -29,3 +29,5 @@ SPEZZARE IL PROBLEMA IN SOTTOPROBLEMI:
 -chiedere i km da percorrere
 -chiedere l`età del passeggero
 -calcolare il prezzo finale
+
+DONE 
