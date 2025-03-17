@@ -24,6 +24,7 @@ SPEZZARE IL PROBLEMA IN SOTTOPROBLEMI:
 -definire la variabile del biglietto del treno 
 -definire la variabile sconto 20
 -definire la variabile sconto 40 
+-definire la variabile età passeggero
 
 -chiedere i km da percorrere
 -chiedere l`età del passeggero
